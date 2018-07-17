@@ -41,3 +41,4 @@ proj
 .bash_history
 .python_history
 .viminfo
+.config/configstore/update-notifier-npm.json
