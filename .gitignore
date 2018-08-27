@@ -24,9 +24,13 @@ SendTo
 Start Menu
 Templates
 
-# My directory links
+# My directory symlinks
 dev
 proj
+OneDrive
+
+# SSH keys
+.ssh/
 
 # Configuation files and directories
 .sudo_as_admin_successful
@@ -42,3 +46,7 @@ proj
 .python_history
 .viminfo
 .config/configstore/update-notifier-npm.json
+.config/git/gitk
+.config/mc/
+.local/share/mc/
+.node_repl_history
