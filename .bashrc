@@ -137,3 +137,6 @@ command_not_found_handle() {
         fi
     fi
 }
+
+# alias for custom git command for use in $HOME
+alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
