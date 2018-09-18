@@ -48,5 +48,7 @@ OneDrive
 .config/configstore/update-notifier-npm.json
 .config/git/gitk
 .config/mc/
-.local/share/mc/
+.local/
 .node_repl_history
+.dotfiles/
+listprog.ps1
