@@ -52,3 +52,4 @@ OneDrive
 .node_repl_history
 .dotfiles/
 listprog.ps1
+.git-backup/
