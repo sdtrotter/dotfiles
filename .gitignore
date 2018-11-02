@@ -53,3 +53,4 @@ OneDrive
 .dotfiles/
 listprog.ps1
 .git-backup/
+.ipython/
