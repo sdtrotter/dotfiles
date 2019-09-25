@@ -51,6 +51,7 @@ OneDrive
 .local/
 .node_repl_history
 .dotfiles/
-listprog.ps1
 .git-backup/
 .ipython/
+.jupyter/
+.seleniumwire
